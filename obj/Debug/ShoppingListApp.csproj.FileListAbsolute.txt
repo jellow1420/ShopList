@@ -1,0 +1,14 @@
+C:\Users\latel\OneDrive\Documents\GITHUB\ShoppingListApp\ShoppingListApp\bin\Debug\ShoppingListApp.exe.config
+C:\Users\latel\OneDrive\Documents\GITHUB\ShoppingListApp\ShoppingListApp\bin\Debug\ShoppingListApp.exe
+C:\Users\latel\OneDrive\Documents\GITHUB\ShoppingListApp\ShoppingListApp\bin\Debug\ShoppingListApp.pdb
+C:\Users\latel\OneDrive\Documents\GITHUB\ShoppingListApp\ShoppingListApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\latel\OneDrive\Documents\GITHUB\ShoppingListApp\ShoppingListApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\latel\OneDrive\Documents\GITHUB\ShoppingListApp\ShoppingListApp\obj\Debug\ShoppingListApp.csproj.AssemblyReference.cache
+C:\Users\latel\OneDrive\Documents\GITHUB\ShoppingListApp\ShoppingListApp\obj\Debug\ShoppingListApp.Form1.resources
+C:\Users\latel\OneDrive\Documents\GITHUB\ShoppingListApp\ShoppingListApp\obj\Debug\ShoppingListApp.Form2.resources
+C:\Users\latel\OneDrive\Documents\GITHUB\ShoppingListApp\ShoppingListApp\obj\Debug\ShoppingListApp.Properties.Resources.resources
+C:\Users\latel\OneDrive\Documents\GITHUB\ShoppingListApp\ShoppingListApp\obj\Debug\ShoppingListApp.csproj.GenerateResource.cache
+C:\Users\latel\OneDrive\Documents\GITHUB\ShoppingListApp\ShoppingListApp\obj\Debug\ShoppingListApp.csproj.CoreCompileInputs.cache
+C:\Users\latel\OneDrive\Documents\GITHUB\ShoppingListApp\ShoppingListApp\obj\Debug\Shopping.7AC1BA92.Up2Date
+C:\Users\latel\OneDrive\Documents\GITHUB\ShoppingListApp\ShoppingListApp\obj\Debug\ShoppingListApp.exe
+C:\Users\latel\OneDrive\Documents\GITHUB\ShoppingListApp\ShoppingListApp\obj\Debug\ShoppingListApp.pdb
